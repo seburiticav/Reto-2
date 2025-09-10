@@ -1,6 +1,6 @@
-# Reto-2
-Reto #02 de POO hecho por Sebastian Buritica Velasco
-´´´mermaid
+# Reto #02 de POO 
+Hecho por Sebastian Buritica Velasco
+```mermaid
 classDiagram
 direction LR
     class SistemaEducativoUniversitario {
