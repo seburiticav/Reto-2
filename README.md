@@ -1,5 +1,5 @@
-# Reto #02 de POO 
-Hecho por Sebastian Buritica Velasco
+# Reto #02 de POO
+Entrega del segundo reto planteado por Felipe Gonzales Roldan para programacion orientada objetos en la Universidad Nacional de Colombia
 ```mermaid
 classDiagram
 direction LR
